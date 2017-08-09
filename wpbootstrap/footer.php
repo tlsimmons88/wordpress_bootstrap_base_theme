@@ -1,7 +1,7 @@
 <hr>
 
       <footer>
-        <p>© Company 2012</p>
+        &copy; <?php echo date("Y"); ?> Copyright by David Deans.
       </footer>
 
     </div> <!-- /container -->
